@@ -1,0 +1,10 @@
+models/pre_trained_net/*.t7
+models/pre_trained_net/*.mat
+mv_logs/checkpoint.t7
+data/*.h5
+data/modelnet40v1/*
+data/modelnet40/*
+score_prediction_logs/*.t7
+retrieval_experiment/embed_data/*.t7 
+tools/meshes2voxels_utils/data/* 
+
